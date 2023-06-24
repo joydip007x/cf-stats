@@ -10,4 +10,4 @@
 <img src="https://raw.githubusercontent.com/joydip007x/cf-stats/main/output/rating.svg" />
 </a>
 
-### [Checkout](https://github.com/sudiptob2/cf-stats)
+### Checkout 👉 https://github.com/sudiptob2/cf-stats
